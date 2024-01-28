@@ -1,8 +1,18 @@
-This is the Masters' project repository for the 23/24 Mechatronic and robotics Meng students where the documentation,
-programs and project reports shall be presented the repository will be split into 2 branches:
+This is the Masters project repository for the 23/24 Mechatronic and robotics Meng students where the documentation,
+programs and project reports shall be presented. 
+
+Team members include:
+  Aimee Walker (AW) - Project manager 
+  Galen Greco (GG) - Risk manager/ Lead of Chassis design and development 
+  Andrei Gorun (AG) - Head of Deisgn 
+  Keiron Underwood (KU) - Lead Manipulator Developer 
+  Kieran Smith (KS) - Lead AI Developer 
+
+The repository will be split into two branches:
   Programming 
-    To be filled (current status January 2024)
+    to be filled (current status Jan 2024)
   Files 
     Planning Phase
     Development Phase one 
-
+    Development phase two 
+    final Documentation
