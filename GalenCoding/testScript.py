@@ -1,0 +1,3 @@
+import getch
+userInput = getch()
+
