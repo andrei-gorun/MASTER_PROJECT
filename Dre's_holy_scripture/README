@@ -1,0 +1,6 @@
+ALL niryo script files MUST be placed in the following: 
+
+catkin_ws/src/niryo_robot_python_wrapper/examples/
+
+
+The Electromagnet code has to be uploaded to a compatible arduino board
